@@ -8,7 +8,7 @@ Here's an updated GitHub README template for your Flutter-based weather app:
 
 This **Weather App** is a simple and intuitive application built with Flutter. It provides real-time weather information for any location globally, displaying current temperature, weather conditions, and additional details like humidity, wind speed, and atmospheric pressure.
 
-![App Screenshot](path_to_screenshot)
+![App Screenshot](https://github.com/Rohanranga/Weather_App/blob/master/weather%20app.png)
 
 ## Features
 
