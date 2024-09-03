@@ -28,7 +28,7 @@ This **Weather App** is a simple and intuitive application built with Flutter. I
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app-flutter.git
+   git clone https://github.com/Rohanranga/Weather_App.git
    cd weather-app-flutter
    ```
 
